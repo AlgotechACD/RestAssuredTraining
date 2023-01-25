@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3732" started-at="2023-01-25T09:06:01 EST" finished-at="2023-01-25T09:06:05 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3732" started-at="2023-01-25T09:06:01 EST" finished-at="2023-01-25T09:06:05 EST">
+      <class name="RestAssured.RestAssuredCookiesHeadersQueryPathParameters">
+        <test-method status="PASS" signature="getHeaders()[pri:5, instance:RestAssured.RestAssuredCookiesHeadersQueryPathParameters@1877ab81]" name="getHeaders" duration-ms="2959" started-at="2023-01-25T09:06:01 EST" finished-at="2023-01-25T09:06:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeaders -->
+        <test-method status="PASS" signature="testLogs()[pri:5, instance:RestAssured.RestAssuredCookiesHeadersQueryPathParameters@1877ab81]" name="testLogs" duration-ms="699" started-at="2023-01-25T09:06:04 EST" finished-at="2023-01-25T09:06:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogs -->
+      </class> <!-- RestAssured.RestAssuredCookiesHeadersQueryPathParameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
